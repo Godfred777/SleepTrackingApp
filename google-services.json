@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239694129443",
+    "project_id": "sleep-tracking-app-624f8",
+    "storage_bucket": "sleep-tracking-app-624f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239694129443:android:93d6c5f3afe12e01678496",
+        "android_client_info": {
+          "package_name": "com.godfred_opintan.sleeptrackingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVdifN-O0vLPGKxK4jK6Kw2X_jNHxb2dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
