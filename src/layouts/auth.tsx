@@ -24,6 +24,7 @@ const styles = StyleSheet.create({
         left: 9,
         top: 195,
         borderRadius: 20,
+        justifyContent: 'center',
     },
     textbox1:{
         color: '#eeeeee',
